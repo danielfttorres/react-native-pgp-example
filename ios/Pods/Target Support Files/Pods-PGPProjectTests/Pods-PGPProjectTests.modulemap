@@ -1,0 +1,6 @@
+framework module Pods_PGPProjectTests {
+  umbrella header "Pods-PGPProjectTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
